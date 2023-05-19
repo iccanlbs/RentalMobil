@@ -38,6 +38,7 @@
                         <td>{{$mobil['cc']}}</td>
                     </tr>
                 @endforeach
+                
             </tbody>
         </table>
     </div>

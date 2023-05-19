@@ -20,7 +20,7 @@
                 <input type="text" name="merk_mobil" requered><br>
             </div>
             <div>
-                <label for="">Nama Mobil</label><br>
+                <label for="">CC</label><br>
                 <input type="text" name="cc" requered><br>
             </div>
             <div>
